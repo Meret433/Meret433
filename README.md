@@ -3,7 +3,8 @@
 <h2>👩‍💻 Data Analytics Projects:</h2>
 
 - <b> SQL </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Worldwide COVID-19 Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)
+    
  - <b>Python </b>
   
   <b></b>
