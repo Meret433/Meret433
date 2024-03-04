@@ -1,4 +1,4 @@
-<h1>Hi, I'm Meheret! <br/><a href="https://github.com/Meret433"
+<h1>Hi, I'm Meheret! A Data Analyst <br/><a href="https://github.com/Meret433"
 
 <h2>👩‍💻 Data Analytics Projects:</h2>
 
@@ -20,6 +20,4 @@
 [linkedin]: https://linkedin.com/in/meheretabebe
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
