@@ -1,4 +1,4 @@
-<h1>Hi, I'm Meheret! A Data Analyst <br/><a href="https://github.com/Meret433"
+<h1>Hi, I'm Meheret! <br/><a href="https://github.com/Meret433"
 
 <h2>👩‍💻 Data Analytics Projects:</h2>
 
