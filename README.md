@@ -4,7 +4,7 @@
 
 - <b> SQL </b>
   - [Worldwide COVID-19 Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)
-  - [TechMac Inc.-Managing Employee Data]
+  - [Updating-Employee-Database](https://github.com/Meret433/Updating-Employee-Database-)
     
  - <b>Python </b>
   
