@@ -5,9 +5,10 @@
 - <b> SQL </b>
   - [Worldwide COVID-19 Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)
   - [Updating-Employee-Database](https://github.com/Meret433/Updating-Employee-Database/tree/main)
-  - [Etape du Tour]
+    
     
  - <b>Python </b>
+    - [Etape du Tour]
   
   <b></b>
   
