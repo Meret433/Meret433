@@ -4,7 +4,7 @@
 
 - <b> SQL </b>
   - [Worldwide COVID-19 Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)
-  - [Updating-Employee-Database](https://github.com/Meret433/Updating-Employee-Database-)
+  - [Updating-Employee-Database](https://github.com/Meret433/Updating-Employee-Database/tree/main)
     
  - <b>Python </b>
   
